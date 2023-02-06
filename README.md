@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
+- 🔭 I’m currently working on [Fitness Website](https://iridescent-lily-682477.netlify.app/)
 
 - 🌱 I’m currently learning **React js**
 
