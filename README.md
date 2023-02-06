@@ -57,7 +57,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="30%">
 
  
   ### Programming Languages 
@@ -74,8 +74,8 @@
 <br/>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitashsingh89&show_icons=true&locale=en&layout=compact" alt="rohitashsingh89" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasbihari1233&show_icons=true&locale=en&layout=compact" alt="Rasbihari1233" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitashsingh89&show_icons=true&locale=en" alt="rohitashsingh89" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasbihari1233&show_icons=true&locale=en" alt="Rasbihari1233" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitashsingh89&" alt="rohitashsingh89" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasbihari1233&" alt="Rasbihari1233" /></p>
