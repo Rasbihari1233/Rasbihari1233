@@ -2,7 +2,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%" />
 </div> 
 
-### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
+### <div align="center">Hey There 👋 I'm Ras bihari, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
 <!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **python, java**
 
-- 📫 How to reach me **rohitashyaduvanshi855@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf](https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf)
+- 📫 How to reach me **rasuthakur1233@gmail.com**
+<!-- 
+- 📄 Know about my experiences [https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf](https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf) -->
 
 
 ## Connect with me  
@@ -55,16 +55,13 @@
 <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="margin:10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a> 
 </div>
 
 </td><td valign="top" width="25%">
 
  
   ### Programming Languages 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img  style="margin: 10px"src="https://user-images.githubusercontent.com/93479842/216257743-9c73006f-dc9a-4271-be00-d88789819d0b.png" alt="php" width="40" height="40"/> </a>
+<div align="center">
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://user-images.githubusercontent.com/93479842/216257780-c81422db-52d5-4530-81db-cd9c8fa76a03.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
