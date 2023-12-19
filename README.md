@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
 
-- 🔭 I’m currently working on [Fitness Website](https://iridescent-lily-682477.netlify.app/)
+- 🔭 I’m currently working on realtime project with react.js.
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js , Node js, **
 
 - 💬 Ask me about **python, java**
 
