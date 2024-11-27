@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React js**, **Node js**
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **Wev-Develpoment, java**
 
 - 📫 How to reach me **rasuthakur1233@gmail.com**
 <!-- 
